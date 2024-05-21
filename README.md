@@ -4,11 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamgcs9&label=Profile%20views&color=0e75b6&style=flat" alt="shivamgcs9" /> </p>
 
 
-- 🔭 I’m currently working on mobile app **React-Native**
-
-- 🌱 I’m currently learning and practicing **React-Native** by making projects.
-
-- 🤝 I’m available for freelancing.
+- 🔭 Having 2 Years of experience on developing  mobile and web application.
 
 - 💬 Ask me about **ReactJs, React-Native, Redux, Firebase, MongoDB**
 
